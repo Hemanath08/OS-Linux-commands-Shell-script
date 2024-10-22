@@ -891,7 +891,7 @@ $ chmod 755 forbreak.sh
 $ ./forbreak.sh
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 14-53-05.png>)
+![image](https://github.com/user-attachments/assets/f4716dec-9330-41c1-9aca-828599c946b0)
 ```
 cat > forcontinue.sh 
 ```
@@ -913,7 +913,7 @@ $ chmod 755 forcontinue.sh
 $ ./forcontinue.sh 
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 14-59-12.png>)
+![image](https://github.com/user-attachments/assets/57ae9915-72d9-4fe2-8ef0-0d15506e0d02)
 ```
 cat > exread.sh 
 ```
@@ -929,7 +929,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 15-04-30.png>)
+![image](https://github.com/user-attachments/assets/4d729386-6a63-40f6-9fc7-fbfdaf60717b)
 ```
 cat > exread1.sh
 ```
@@ -944,7 +944,7 @@ $ chmod 755 exread1.sh
 $ ./exread1.sh
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 15-08-28.png>)
+![image](https://github.com/user-attachments/assets/3329b737-dfee-429d-a067-3e4fa33dd33a)
 
 ```
 cat > funcex.sh
@@ -968,7 +968,7 @@ fi
 ./funcex.sh 1 2
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 15-13-59.png>)
+![image](https://github.com/user-attachments/assets/eb927356-ffa7-4e0e-a003-556577e88180)
 
 ``` 
 cat > argshift.sh
@@ -985,7 +985,7 @@ $ chmod 777 argshift.sh
 $ ./argshift.sh 1 2 3
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 15-15-31.png>)
+![image](https://github.com/user-attachments/assets/f973ccb2-81b8-4099-a185-bd61073dc6ce)
 
 ```
 cat > argshift1.sh
@@ -1007,7 +1007,7 @@ $ chmod 777 argshift1.sh
 $ ./argshift1.sh 1 2 3
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 15-18-06.png>)
+![image](https://github.com/user-attachments/assets/55e38f66-c0bc-41b6-b574-3a46eebc1a96)
 ```
 cat > argshift.sh
 ```
@@ -1025,7 +1025,7 @@ chmod 777 argshift.sh
 ./argshift.sh 1 2 3
 ```
 ## OUTPUT
-![com](<outputs/Screenshot from 2024-09-08 15-22-33.png>)
+![image](https://github.com/user-attachments/assets/a6e3329b-8551-48ef-a2bd-c5073b30f675)
 ```
 cat > nc.awk
 ```
@@ -1061,7 +1061,7 @@ ubcdfghj
 awk -f nc.awk data.dat
 ```
 ## OUTPUT 
-![com](<outputs/Screenshot from 2024-09-08 15-25-30.png>)
+![image](https://github.com/user-attachments/assets/380c45bc-5504-4621-91f1-5850c02a4ff5)
 
 ```
 cat > palindrome.sh
@@ -1094,7 +1094,7 @@ fi
 bash palindrome.sh
 ```
 ## OUTPUT 
-![com](<outputs/Screenshot from 2024-09-08 15-28-57.png>)
+![image](https://github.com/user-attachments/assets/486433e6-bc62-4305-94fd-9e11bd83cc1f)
 
 # RESULT:
 The Commands are executed successfully.
